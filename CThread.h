@@ -70,7 +70,8 @@ class CThread
 
 
 
-
+helloe?
+test
 
 
 
